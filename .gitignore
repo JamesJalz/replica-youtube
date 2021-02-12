@@ -1,0 +1,6 @@
+#ignora los siguientes:
+
+* img/
+img/
+* .DS_Store
+.DS_Store
